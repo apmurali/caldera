@@ -118,7 +118,7 @@ Refer to our [contributor documentation](CONTRIBUTING.md).
 
 ## Vulnerability Disclosures
 
-Refer to our [vulnerability discolosure documentation](SECURITY.md) for submitting bugs.
+Refer to our [vulnerability disclosure documentation](SECURITY.md) for submitting bugs.
 
 ## Licensing
 
